@@ -3,6 +3,7 @@
 一个基于Three.js开发的3D音频可视化网页，提升用户视听体验。
 
 开发者：鹿鹿悠为（Luluyouweia）
+![0](.github/Screenshot_20260216_142517_com.venter.hopweb_edit_1263529624117612.jpg)
 
 ## 注意事项
 

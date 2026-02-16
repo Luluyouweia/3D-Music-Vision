@@ -23,4 +23,4 @@ _需要在服务环境下运行_
 打开 index.html/php 后，加载完毕后，点击任意区域开始播放。
 
 # 示例
-[1](.github/Screenshot_20260216_142523_com.venter.hopweb_edit_1263521023724905.jpg)
+![1](.github/Screenshot_20260216_142523_com.venter.hopweb_edit_1263521023724905.jpg)

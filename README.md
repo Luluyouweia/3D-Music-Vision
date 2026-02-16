@@ -8,7 +8,7 @@
 
 /assets/audio/下存放音频文件
 
-/assets/img/下存放全景图片文件
+/assets/texture/下存放全景图片文件
 
 _需要在服务环境下运行_
 
